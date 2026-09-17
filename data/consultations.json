@@ -1,0 +1,35 @@
+[
+  {
+    "id": "LEO-20260916-4521",
+    "contactName": "林小姐",
+    "contactMethod": "+60178889900",
+    "familyStructure": "双职工家庭（有小孩）",
+    "existingPolicyStatus": "仅有医药卡，无重疾险",
+    "focusAreas": [
+      "测算家庭支柱真正需要的重疾保额",
+      "医药卡保额排查"
+    ],
+    "note": "想帮先生做一次免费保单体检",
+    "calculatedGap": 520000,
+    "createdAt": "2026-09-16T18:37:08.409Z",
+    "formattedDateTime": "2026/09/17 02:37:08",
+    "status": "pending",
+    "plannerNotes": ""
+  },
+  {
+    "id": "LEO-20260916-8971",
+    "contactName": "陈先生",
+    "contactMethod": "+60123456789",
+    "familyStructure": "三口之家",
+    "existingPolicyStatus": "仅有医药卡",
+    "focusAreas": [
+      "重疾生活替代金"
+    ],
+    "note": "想核算一下全家重疾保额",
+    "calculatedGap": 360000,
+    "createdAt": "2026-09-16T18:37:06.261Z",
+    "formattedDateTime": "2026/09/17 02:37:06",
+    "status": "pending",
+    "plannerNotes": ""
+  }
+]

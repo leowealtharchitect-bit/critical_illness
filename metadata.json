@@ -1,0 +1,6 @@
+{
+  "name": "家庭重疾保障自查与测算器",
+  "description": "Leo 家庭财富传承规划师官方自查平台（工程师思维 × 幸福财富传承）。专为马来西亚家庭打造的重疾保障自查与生活替代金测算器（马币 RM），深度拆解医药卡与重疾险底层差异，守护大马家庭资产底盘，提供 Leo AI 助理原声导读与 1-对-1 免费保单体检（WhatsApp: +60164311419）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
